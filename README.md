@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with everything. I need helpppp
 - 💬 Ask me about Scratch, or Javascript
-- 📫 How to reach me: [my Scratch profile](https://scratch.mit.edu/users/gosoccerboy5)
+- 📫 How to reach me: [my Scratch profile](https://scratch.mit.edu/users/gosoccerboy5) (or on github, contact me [here](https://github.com/gosoccerboy5/gosoccerboy5/discussions))
 - 😄 Pronouns: He/him or they/them
 - ⚡ Fun fact: I don't know what to put as my fun fact
