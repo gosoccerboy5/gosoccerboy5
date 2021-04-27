@@ -1,6 +1,6 @@
 ### Hello, I'm gosoccerboy5 👋
 
-- 👨‍💻 My (lame) website: [gosoccerboy5.github.io](//gosoccerboy5.github.io) ([source code](//github.com/gosoccerboy5/gosocceerboy5.github.io))
+- 👨‍💻 My (lame) website: [gosoccerboy5.github.io](//gosoccerboy5.github.io) ([source code](//github.com/gosoccerboy5/gosoccerboy5.github.io))
 - 🔭 I’m currently working on school ![:/](https://cdn.scratch.mit.edu/scratchr2/static/__1a8976279f2d9f27ed40e35c366f851b__/djangobb_forum/img/smilies/hmm.png) 
 - 🌱 I’m currently learning web development, how to use Github, and maybe a couple other languages like Dart and Java
 - 💬 Ask me about Scratch, or Javascript
