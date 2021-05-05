@@ -6,5 +6,5 @@
 - 💬 Ask me about Scratch, or Javascript
 - 📫 How to reach me: [my Scratch profile](https://scratch.mit.edu/users/gosoccerboy5) (or on Github, contact me [here](https://github.com/gosoccerboy5/gosoccerboy5/discussions))
 - 😄 Pronouns: He/him or they/them
-- ⚡ Fun fact: I eat the crusts of sandwiches first so that I can eat the better part which is the middle later
-- :godmode::shipit::suspect::rage1::poop::octocat:
+- ⚡ Fun fact: I eat the crusts of sandwiches first so that I can eat the better part which is the middle later  
+<img src="https://raw.githubusercontent.com/gosoccerboy5/gosoccerboy5.github.io/3deab9880fec886abe2e55fcdb43bee838820ea4/resources/cat-head.svg" alt=":)" width="30"/>
