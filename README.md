@@ -2,7 +2,7 @@
 
 - 👨‍💻 My (lame) website: [gosoccerboy5.github.io](//gosoccerboy5.github.io) ([source code](//github.com/gosoccerboy5/gosoccerboy5.github.io))
 - 🔭 I’m currently working on school ☹️. Outside of that, I'm mainly working on Github and the wonders it provides
-- 🌱 I’m currently learning web development, how to use Github, and maybe a couple other languages like Dart and Java
+- 🌱 I’m currently learning web development, how to use Github<s>, and maybe a couple other languages like Dart and Java</s> (too lazy)
 - 💬 Ask me about Scratch, or Javascript
 - 📫 How to reach me: [my Scratch profile](https://scratch.mit.edu/users/gosoccerboy5) (or on Github, contact me [here](https://github.com/gosoccerboy5/gosoccerboy5/discussions))
 - 😄 Pronouns: He/him or they/them
