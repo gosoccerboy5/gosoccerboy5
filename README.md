@@ -1,13 +1,11 @@
 ### Hello, I'm gosoccerboy5 👋
 
-- 👨‍💻 My (lame) website: [gosoccerboy5.github.io](//gosoccerboy5.github.io) ([source code](//github.com/gosoccerboy5/gosoccerboy5.github.io))
-- 🔭 I’m currently working on school 🙁. Outside of that, I'm mainly working on Github and the wonders it provides
-- 🌱 I’m currently learning web development, how to use Github<s>, and maybe a couple other languages like Dart and Java</s> (too lazy)
-- 💬 Ask me about Scratch, or Javascript
-- 📫 How to reach me: [my Scratch profile](https://scratch.mit.edu/users/gosoccerboy5) (or on Github, contact me [here](https://github.com/gosoccerboy5/gosoccerboy5/discussions))
+- 👨‍💻 My website: [gosoccerboy5.github.io](//gosoccerboy5.github.io) ([view on Github](//github.com/gosoccerboy5/gosoccerboy5.github.io))
+- 🔭 I’m currently working on school, unfortunately. Outside of that, I am mainly working on creating more webpages with (hopefully) interesting content.
+- 🌱 I’m currently learning web development, how to use Github, and attempting to learn <a href="//dart.dev">Dart</a>.
+- 📫 How to reach me: [my Scratch profile](https://scratch.mit.edu/users/gosoccerboy5). On Github, you can contact me [here](https://github.com/gosoccerboy5/gosoccerboy5/discussions).
 - 😄 Pronouns: He/him or they/them
 - ⚡ Fun fact: I eat the crusts of sandwiches first so that I can eat the better part which is the middle later  
-- 🕘 Status: probably online since I don't have too much to do
+- 🕘 Status: Probably online, since I don't have too much to do.
+- :shipit: Miscellaneous: View my <a href="//gist.github.com/gosoccerboy5" target="_blank">Github Gists</a> and pinned repos, you might find something useful!
 <img src="https://raw.githubusercontent.com/gosoccerboy5/gosoccerboy5.github.io/3deab9880fec886abe2e55fcdb43bee838820ea4/resources/cat-head.svg" alt=":)" width="30" title = "meow"/>
-<img src = "https://github-readme-stats.vercel.app/api?username=gosoccerboy5&theme=tokyonight">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosoccerboy5&theme=radical">
