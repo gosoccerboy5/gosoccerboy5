@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I eat the crusts of sandwiches first so that I can eat the better part which is the middle later  
 - 🕘 Status: Probably online, since I don't have too much to do.
 - :shipit: Miscellaneous: View my <a href="//gist.github.com/gosoccerboy5" target="_blank">Github Gists</a> and pinned repos, you might find something useful!
-<img src="https://raw.githubusercontent.com/gosoccerboy5/gosoccerboy5.github.io/3deab9880fec886abe2e55fcdb43bee838820ea4/resources/cat-head.svg" alt=":)" width="30" title = "meow"/>
+<img src="https://raw.githubusercontent.com/gosoccerboy5/gosoccerboy5.github.io/master/resources/cat-head.svg" alt=":)" width="30" title = "meow"/>
