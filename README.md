@@ -10,3 +10,5 @@ Have a good day 😃
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gosoccerboy5&show_icons=true&theme=github_dark)
+
+![Language Percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=gosoccerboy5&theme=github_dark)
