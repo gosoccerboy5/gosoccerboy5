@@ -2,7 +2,7 @@
 
 I don't use Github all that often. But, please do check out my pinned repositories and [Github Gists](https://gist.github.com/gosoccerboy5) (they're very epic 😎). 
 
-If you want to contact me somewhere else, I'm gosoccerboy5 on Scratch, Replit, and Reddit. If you want my Discord (where I am most active): `gosoccerboy5#6585`.
+If you want to contact me somewhere else, I'm gosoccerboy5 on Scratch, Replit, and Reddit. If you want my Discord (where I am most active): `theultimatenerd#6585` (or probably `theultimatenerd` when Discord's username changes roll out).
 
 Have a good day 😃
 
