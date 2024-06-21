@@ -1,8 +1,8 @@
 ### Hello, I'm gosoccerboy5 👋
 
-I don't use Github all that often. But, please do check out my pinned repositories and [Github Gists](https://gist.github.com/gosoccerboy5) (they're very epic 😎). 
+I don't use Github all that often. But, please do check out my pinned repositories (there are some cool games) and [Github Gists](https://gist.github.com/gosoccerboy5) (they're very epic 😎). 
 
-If you want to contact me somewhere else, I'm gosoccerboy5 on Scratch, Replit, and Reddit. If you want my Discord (where I am most active): `theultimatenerd#6585` (or probably `theultimatenerd` when Discord's username changes roll out).
+If you want to contact me somewhere else, my username is gosoccerboy5 on most platforms.
 
 Have a good day 😃
 
