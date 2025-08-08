@@ -1,6 +1,4 @@
-### Hello, I'm gosoccerboy5 👋
-
-Please do check out my pinned repositories (there are some cool games) and [Github Gists](https://gist.github.com/gosoccerboy5) (they're very epic 😎). 
+Please check out my pinned repositories (there are some cool games) and [Github Gists](https://gist.github.com/gosoccerboy5). 
 
 If you want to contact me somewhere else, my username is gosoccerboy5 on most platforms.
 
